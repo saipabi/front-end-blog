@@ -79,7 +79,7 @@ function App() {
             </div>
 
             {/* Displaying blog posts */}
-            {loading ? <p className="text-center">Loading posts...</p> : (
+            {loading ? <p className="text-center">Loading Posts...</p> : (
                 posts.length > 0 ? (
                     posts.map(post => (
                         <div key={post._id} className="card mb-3 shadow-sm">
