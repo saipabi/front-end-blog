@@ -10,10 +10,15 @@ The MERN Blog Application is a full-stack web application that allows users to c
 
 
 📰 Create, Edit, and Delete Blog Posts
+
 🔍 View all blogs in a structured layout
+
 🏷 Categories & Tags for better organization
+
 📸 Upload and display images for blogs
+
 🎨 Responsive UI with Bootstrap
+
 
 🛠 Tech Stack
 
