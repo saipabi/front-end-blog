@@ -27,6 +27,7 @@ Styling: CSS, Bootstrap
 
 
 📂 Installation
+
 1️⃣ Clone the Repository
 sh
 Copy
@@ -51,6 +52,7 @@ cd backend
 npm install
 
 3️⃣ Set Up Environment Variables
+
 Create a .env file in the backend folder and add the following:
 
 MONGO_URI=your_mongodb_connection_string
@@ -58,6 +60,7 @@ PORT=5000
 
 
 4️⃣ Start the Application
+
 🔹 Run Backend Server
 sh
 Copy
@@ -80,4 +83,5 @@ backend-Api: https://backend-blog-w9jh.onrender.com/
 
 🧑‍💻 Author
 Suriya R
-GitHub: saipabi
+
+GitHub: https://github.com/saipabi
